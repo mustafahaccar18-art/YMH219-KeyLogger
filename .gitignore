@@ -1,0 +1,17 @@
+## Build and binary directories
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+
+## Visual Studio cache and temporary files
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+
+## Windows temporary files
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
